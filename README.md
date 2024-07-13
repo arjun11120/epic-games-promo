@@ -1,8 +1,37 @@
-# React + Vite
+# Epic-games-promo>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Technologies Used](#React / css)
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design with media queries for various screen sizes.
+- Flexbox layout for card components.
+- Attractive UI with custom styling using CSS.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React (if applicable)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/arjun11120/epic-games-promo.git
+
+
+- [Installation](
+    for install 
+
+    first 
+    # npm install
+
+)
+## - [Run](
+    For run application
+    # npm run dev
+)
